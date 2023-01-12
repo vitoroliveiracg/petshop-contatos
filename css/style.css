@@ -71,7 +71,7 @@ body{
       background-size: cover;
       background-position-x: 56%;
       margin: 0;
-      height: 500px;
+      height: 550px;
   }
   
   figcaption{
@@ -79,7 +79,7 @@ body{
     background-color: #f3eeeb;
     margin-left: 0;
     width: 100%;
-    height: 500px;
+    height: 600px;
     overflow: hidden;
   }
   
@@ -95,6 +95,7 @@ body{
   }
   figcaption p{
     margin: 0;
+    margin-bottom: 20px;
     padding: 20px 40px;
     font-size: 18px;
   }
